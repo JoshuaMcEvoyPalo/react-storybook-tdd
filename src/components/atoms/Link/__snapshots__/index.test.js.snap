@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link tests Should render Link correctly 1`] = `
+<a
+  className="link"
+  data-testid="link"
+  href="/another-page"
+>
+  Forgotten your username?
+</a>
+`;

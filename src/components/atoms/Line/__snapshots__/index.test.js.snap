@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Line tests Should render Line correctly 1`] = `
+<div
+  className="line"
+  data-testid="line"
+/>
+`;
