@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`H2 tests Should render H2 correctly 1`] = `
+<h2
+  className="h2"
+  data-testid="h2"
+>
+  Heading text
+</h2>
+`;

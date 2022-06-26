@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonLabel tests Should render ButtonLabel correctly 1`] = `
+<div
+  className="button-label"
+  data-testid="button-label"
+>
+  Sign in
+</div>
+`;
